@@ -63,10 +63,12 @@ header .textos-header{
 }
 .textos-header h1{
     font-size: 50px;
+    font-weight: 400;
     color:#fff;
 }
 .textos-header span {
     font-size: 80px;
+    font-weight: 600;
 }
 .wave{
     position: absolute;
